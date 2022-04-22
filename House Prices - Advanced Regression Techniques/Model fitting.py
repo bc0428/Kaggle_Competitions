@@ -25,5 +25,3 @@ x_test = processed_test.iloc[:,:].values
 
 result = pd.DataFrame({'Id': test['Id'], 'SalePrice':regressor.predict(x_test)})
 
-result.to_csv('/Users/briancheng/Desktop/kaggle.csv', index=False)
-
