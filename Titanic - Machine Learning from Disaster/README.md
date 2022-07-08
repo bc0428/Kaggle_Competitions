@@ -14,4 +14,4 @@ In this challenge, we ask you to build a predictive model that answers the quest
 <h2> Conclusion and Reflection </h2>
 Logistic regression model were used as a baseline, compared with support vector classifier, random forest classifier and XGBoost classifier. Random forest has the best performance and therefore was chosen for the final prediction.  <br>
 Kaggle score: 0.78229<br>
-Ranking: top 19,7% at the time of submission<br>
+Ranking: top 19.7% at the time of submission<br>
