@@ -12,6 +12,6 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 <h2> Conclusion and Reflection </h2>
-Logistic regression model were used, several models were trained to compare the effect of backward elimination. Turns out eliminating statistical insignificant independet variables has a negative impact on accuracy. <br>
-Kaggle score: 0.76794<br>
-Ranking: top 64.5% at the time of submission<br>
+Logistic regression model were used as a baseline, compared with support vector classifier, random forest classifier and XGBoost classifier. Random forest has the best performance and therefore was chosen for the final prediction.  <br>
+Kaggle score: 0.78229<br>
+Ranking: top 19,7% at the time of submission<br>
