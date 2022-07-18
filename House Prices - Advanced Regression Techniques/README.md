@@ -9,7 +9,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
 <h2> Conclusions and reflections: </h2>
-built elastic net, support vector regression, random forest and XGBoost model. they were then stacked into a single regressor estimator<br>
+built elastic net, support vector regression, random forest and XGBoost model. They were then stacked into a single regressor estimator<br>
 Kaggle Score: 0.14911<br>
 
 
