@@ -9,8 +9,7 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
 <h2> Conclusions and reflections: </h2>
-Random forest regression model was chosen to accomodate both categorical and numerical data, trees=45 was experimentally found to be the optimal number<br>
-Kaggle Score: 0.14724<br>
-Ranking: top 48% at the time of submission<br><br>
+built elastic net, support vector regression, random forest and XGBoost model. they were then stacked into a single regressor estimator<br>
+Kaggle Score: 0.14911<br>
 
-First time participating in Kaggle competitions, wasn't expecting too much, mainly hoping to refresh myslef with everything learnt. Struggle with packages such as numpy and pandas occasionally, shall revisit this problem and compare with the results with different models.
+
